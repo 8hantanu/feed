@@ -23,6 +23,9 @@ custom-styles="
     max-width: 100%;
     text-align: left;
   }
+  img {
+    filter: none !important;
+  }
   #bsky-load-more {
     margin-left: 0;
   }
