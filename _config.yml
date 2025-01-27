@@ -1,0 +1,15 @@
+title: Shantanu's feed
+author: Shantanu Mishra
+email: hey@8hantanu.net
+
+url: https://8hantanu.net
+baseurl: /feed
+
+remote_theme: yree/mold
+
+footer_content: >
+  [8hantanu](https://8hantanu.net) — [bsky](https://bsky.app/profile/8hantanu.net) — powered by [bsky-embed](https://github.com/Vincenius/bsky-embed)
+
+favicon: favicon.svg
+
+goat_counter: 8hantanu
