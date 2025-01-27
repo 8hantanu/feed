@@ -14,20 +14,18 @@ custom-styles="
     font-size: 16px;
   }
   section {
-    max-width: calc(min(80ch, 100% - 1ch));
+    all: unset !important;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
     margin: 0 auto;
-    align-items: flex-start;
   }
   article {
     border: none;
-    max-width: 100%;
-    text-align: left;
-  }
-  img {
-    filter: none !important;
+    width: 100%;
   }
   #bsky-load-more {
-    margin-left: 0;
+    align-self: flex-start;
   }
 ">
 </bsky-embed>
